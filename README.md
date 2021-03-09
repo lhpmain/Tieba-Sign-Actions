@@ -12,7 +12,7 @@
 - [x] 签到结果通知：1. 电报（telegram）2. server酱（微信）
 
 Demo：https://tb-act.tk
-# 使用说明
+# 使用说明 
 ## 注册一个github账号，已有请跳过
 [注册教程](https://jingyan.baidu.com/article/86fae346e723303c49121abb.html)
 ## 一、Fork此仓库
